@@ -1,1 +1,51 @@
-/* You can add global styles to this file, and also import other style files */
+body{ margin:0; padding: 0; }
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('/assets/fonts/Helvetica/HelveticaNeue-Italic.eot');
+    src: url('/assets/fonts/Helvetica/HelveticaNeue-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/Helvetica/HelveticaNeue-Italic.woff2') format('woff2'),
+        url('/assets/fonts/Helvetica/HelveticaNeue-Italic.woff') format('woff'),
+        url('/assets/fonts/Helvetica/HelveticaNeue-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+.container{ width:100%;}
+.wrapper{ width:1180px; margin: 0 auto; }
+.flt_L { float: left; }
+.flt_R { float: right; }
+.clear{clear: both;}
+h3{  font-family: 'Raleway', sans-serif; }
+ul{padding: 0;}
+
+
+.banner-text ul li  i { color: #b09c92; font-size: 22px;}
+.banner-text ul li  i:hover { background: #2ecc71; color: #fff; }
+
+.fa-apple { background: #38241a; color: white; }
+.fa-android { background: #38241a; color: white; }
+.fa-windows { background: #38241a; color: white; }
+
+.section-full-width{ width: 100%; }
+
+.banner-img ul { list-style: none ; }
+.banner-img ul li{  display: inline-block; }
+
+.social ul{ display:inline-block; }
+.social ul li{ list-style-type: none; float: left; }
+.social ul li i{ font-size: 20px; }
+
+::-webkit-input-placeholder { color: #aaaaaa;  font-family: 'Helvetica Neue'; }
+::-moz-placeholder { color: #aaaaaa;  font-family: 'Helvetica Neue'; }
+
+.fa:hover { background:#65da96; }
+.fa-facebook { background: #d4d4d4; color: white; }
+.fa-twitter { background: #d4d4d4; color: white; }
+.fa-google { background: #d4d4d4; color: white; }
+.fa-linkedin { background: #d4d4d4; color: white; }
+.fa-youtube { background: #d4d4d4; color: white; }
+.fa-pinterest { background: #d4d4d4; color: white; }
+.fa { padding: 14px; font-size: 30px; width: 20px; text-align: center; text-decoration: none; margin: 5px 2px; border-radius: 50%; }
+
+
+

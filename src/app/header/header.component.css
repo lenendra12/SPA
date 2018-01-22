@@ -1,0 +1,7 @@
+.banner-img { border-top: 10px solid #2ecc71; background-image: url(/assets/images/banner.jpg); background-size: cover;background-repeat: no-repeat; }
+.banner-img img{ width: 100%; }
+
+.banner-text { padding: 102px 0 102px 193px }
+.banner-text h2{ font-family: 'Pacifico', cursive; color: #fff; font-size: 60px; font-weight: normal; margin: 0; }
+.banner-text h2 span{ font-size: 80px; color: #2ecc71; margin-bottom: 0;  font-family: 'Helvetica Neue'; }
+.banner-text h5{ color: #fff; font-size: 20px;  font-family: 'Helvetica Neue'; line-height: 26px; font-weight: normal; margin: 0;}

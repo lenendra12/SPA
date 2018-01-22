@@ -1,0 +1,7 @@
+.notify-section { background: #e3e3e3; padding:60px 0 60px 0; }
+.notify-section h3 { margin-top: 0; }
+.notify-text { width: 40%;}
+.notify-text p {  font-family: 'Helvetica Neue'; color: #aaaaaa; line-height: 25px;}
+.notify-text input { width: 273px; height: 20px; padding: 10px 15px; border: 1px solid #c9c9c9; background: #eee; border-radius: 11px 0 0 11px; font-weight: bold; }
+.notify-text button { cursor: pointer; height: 42px; width: 110px; font: bold 15px/40px 'lucida sans', 'trebuchet MS', 'Tahoma'; color: #fff; text-transform: uppercase; background: #2ecc71; border: 1px solid #2ecc71; text-shadow: 0 -1px 0 rgba(0, 0, 0, .3); margin-right: 57px;border-radius: 0 11px 11px 0; }
+.notify-video { width: 40%; }

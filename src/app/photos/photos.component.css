@@ -1,0 +1,8 @@
+.content-section { text-align: center; margin-top: 50px; }
+.content-section h2 { font-family: 'Raleway', sans-serif; font-size: 20px; }
+.images-section ul { display: inline-block; margin-left: 100px; margin-bottom: 0; }
+.images-section ul li:hover { opacity: 0.3; background-color: green; }
+.images-section ul li{ list-style-type: none; float: left; }
+.content-section ul li { float: left; list-style-type: none; padding: 3px; }
+.content-section p {  font-family: 'Helvetica Neue'; font-style: italic; color: #848484; font-size: 18px; margin-bottom: 0;}
+.content-section h3 { font-family: 'Raleway', sans-serif; margin-top: 0; margin-bottom: 0; }
